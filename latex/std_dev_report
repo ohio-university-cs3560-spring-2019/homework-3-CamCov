@@ -1,0 +1,20 @@
+\documentclass[12 pt] {article} 
+\usepackage[latin1]{inputenc}  
+\usepackage{amsmath}  
+\usepackage{amsfonts}  
+\usepackage{amssymb}  
+\usepackage{makeidx}  
+\usepackage{graphicx} 
+
+\title{CS3560 - Standard Deviation Report - HW3}
+\date{February 11th 2019}
+\author{Cameron Coventry}
+
+\begin{document}
+\maketitle
+
+                           $s=\sqrt{\frac{1}{N-1}\sum_{i=1}^n(x_i-\bar{x})^2}$
+                                                                                                                                           
+This is the equation for the Standard Deviation of a data set. $s$ is the variable for standard deviation. $N$ is the number if terms in the set. $x_i$ is the $i$th element in the set. $\overline{x}$ is the average of the data set.
+
+\end{document}
